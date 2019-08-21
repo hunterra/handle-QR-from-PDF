@@ -7,3 +7,6 @@ You need to install next libraries
  pyzbar,
  numpy,
  PIL
+
+
+Give path to PDF file as an agrgument to the script
